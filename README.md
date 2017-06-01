@@ -1,2 +1,2 @@
 # Einsite-Data-Science-Hiring-Challenge
-To predict the cab fare
+The problem statement was to predict the cab fare based on geographical features
